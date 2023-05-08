@@ -26,3 +26,5 @@
 ![image](https://user-images.githubusercontent.com/115396834/216839737-dc3b0ffa-d3a7-45f6-936c-a0dc9a3de258.png)
 put method
 ![image](https://user-images.githubusercontent.com/115396834/236859635-c993f381-5d1f-47ef-b5c0-3224d4c60c92.png)
+post method
+![image](https://user-images.githubusercontent.com/115396834/236859878-9271581a-b02a-4beb-bb83-71e0ef15fce1.png)
